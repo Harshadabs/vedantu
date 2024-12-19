@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Montserrat", serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -7,7 +7,7 @@ body {
     color: #333;
 }
 header {
-    background: #007bff;
+    background: #59a9ff;
     color: white;
     padding: 1rem 0;
     text-align: center;
@@ -22,7 +22,7 @@ header {
     border-radius: 5px;
 }
 h1, h2, h3 {
-    color: #00f742;
+    color: #000000;
     border: #333;
 }
 .hidden-content {
@@ -57,4 +57,9 @@ footer {
     background: #333;
     color: white;
     margin-top: 20px;
+}
+.graph{
+    margin-top: 20px;
+    max-width: 800px;
+    height: auto;
 }
